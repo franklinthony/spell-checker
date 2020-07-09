@@ -1,5 +1,5 @@
 <h1 align="center">
-    :house: :hotel:
+    :page_facing_up: :wrench:
 </h1>
 <h1 align="center">
   Corretor Ortográfico
